@@ -20,6 +20,10 @@ build
 # other
 eclipse
 run
+workspace.code-workspace
+README.txt
+LICENSE.txt
+CREDITS.txt
 
 # Files from Forge MDK
 forge*changelog.txt
