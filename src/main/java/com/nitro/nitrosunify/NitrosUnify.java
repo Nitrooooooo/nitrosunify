@@ -27,7 +27,6 @@ public class NitrosUnify
 {
     public static final String MOD_ID = "nitrosunify";
     public static final String NAME = "Nitro's Unify";
-    public static final ItemGroup ITEM_GROUP = new NUItemGroup();
 
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
